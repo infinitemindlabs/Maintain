@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Under Maintenance</title>
+    <style>
+        body {
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        .maintenance-message {
+            text-align: center;
+            padding-top: 30%;
+            font-size: 2em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="maintenance-message">
+        <h1>Maintain Maintenance Group</h1>
+        <p>Our website is currently under maintenance. We'll be back soon.</p>
+    </div>
+</body>
+</html>
